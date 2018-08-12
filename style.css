@@ -12,30 +12,30 @@ h1 {
 }
 #youtube {
   position: fixed;
-  right: 320px;
+  right: 318.5px;
   top: 257px;
 }
 
 #twitter {
   position: fixed;
   right: 244px;
-  top: 274px;
+  top: 269px;
 }
 
 #instagram {
   position: fixed;
   right: 217px;
-  top: 274px;
+  top: 269px;
 }
 
 #twitch {
   position: fixed;
   right: 186px;
-  top: 275px;
+  top: 270px;
 }
 
 #discord {
   position: fixed;
   right: 165px;
-  top: 275px;
+  top: 270px;
 }
