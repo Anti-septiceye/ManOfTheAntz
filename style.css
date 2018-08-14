@@ -16,6 +16,12 @@ h1 {
   top: 257px;
 }
 
+#subscribe {
+  position: fixed;
+  right: 305px;
+  top: 257px;
+}
+
 #twitter {
   position: fixed;
   right: 242px;
