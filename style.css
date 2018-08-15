@@ -12,45 +12,48 @@ body {
   src: url("Kingthings-Trypewriter-2.ttf");
 }
 
+h3 {
+  font-family: "Kingthings-Trypewriter-2";
+}
+
 h1 {
   font-family: "Kingthings-Trypewriter-2";
 }
 
-}
 #youtube {
   position: fixed;
-  right: 338px;
-  top: 262px;
+  right: 335px;
+  top: 322px;
 }
 
 #subscribe {
   position: fixed;
   right: 265px;
-  top: 267px;
+  top: 327px;
 }
 
 #twitter {
   position: fixed;
   right: 242px;
-  top: 269px;
+  top: 329px;
 }
 
 #instagram {
   position: fixed;
   right: 215px;
-  top: 269px;
+  top: 329px;
 }
 
 #twitch {
   position: fixed;
   right: 184px;
-  top: 270px;
+  top: 330px;
 }
 
 #discord {
   position: fixed;
   right: 163px;
-  top: 270px;
+  top: 328px;
 }
 
 .topnav {
