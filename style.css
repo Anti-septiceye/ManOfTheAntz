@@ -6,9 +6,16 @@ body {
   background-color: #a09f9b;
   color:black;
 }
+
+@font-face {
+  font-family: "Kingthings-Trypewriter-2";
+  src: url("Kingthings-Trypewriter-2.ttf");
+}
+
 h1 {
-  font-family: "Merriweather", serif;
-  font-size: 32px;
+  font-family: "Kingthings-Trypewriter-2";
+}
+
 }
 #youtube {
   position: fixed;
