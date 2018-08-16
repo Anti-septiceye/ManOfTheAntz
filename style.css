@@ -104,7 +104,7 @@ h1 {
 
 .dropdown:hover .dropdown-content {
     display: block;
-    background-color: #ddd;
+    background-color: #000;
 }
 
 .dropdown {
