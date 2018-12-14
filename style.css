@@ -5,19 +5,12 @@ body {
   text-align: center;
   background-color: #a09f9b;
   color:black;
+  font-family: "Kingthings-Trypewriter-2";
 }
 
 @font-face {
   font-family: "Kingthings-Trypewriter-2";
   src: url("Kingthings-Trypewriter-2.ttf");
-}
-
-h3 {
-  font-family: "Kingthings-Trypewriter-2";
-}
-
-h1 {
-  font-family: "Kingthings-Trypewriter-2";
 }
 
 #youtube {
