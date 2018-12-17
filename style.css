@@ -13,6 +13,12 @@ body {
   src: url("Kingthings-Trypewriter-2.ttf");
 }
 
+#Me {
+  postion: fixed;
+  right: 20px;
+  top: 20px;
+}
+
 #youtube {
   position: fixed;
   right: 335px;
