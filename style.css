@@ -111,6 +111,10 @@ body {
     overflow: hidden;
 }
 
+.dropdown a:hover {
+    background-color: #ddd;
+}
+
 .dropdown .dropbtn {
     font-size: 16px;    
     border: none;
